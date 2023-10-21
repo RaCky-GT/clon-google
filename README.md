@@ -1,35 +1,69 @@
-# clon-google
+# Clon de Google (HTML, CSS)
 
-Este es un clon simple de la página de inicio de Google, creado con HTML y CSS. El objetivo de este proyecto es replicar visualmente la página de inicio de Google, no tiene funcionalidad pero se ha cereado con la finalidad de aprender a utlizar las distintas etiquetas html y cómo agregarles estilos por medio de css y sus etiquetas.
+Proyecto realizado con la intención de aplicar los conocimientos obtenidos en el bootcamp de Tecnolochicas PRO Summer Camp.
 
-## Contenido
+Puedes poner en práctica tus habilidades revisando y utilizando el código a continuación.
 
-- [Etiquetas Principales](#etiquetas)
-- [Cómo usar](#cómo-usar)
-- [Capturas de pantalla](#capturas-de-pantalla)
-- [Personalización](#personalización)
+## ÍNDICE
 
-## Etiquetas
+* [1. Intro](https://github.com/malibb/clon-de-google/tree/main#1intro)
+* [2. Demo](https://github.com/malibb/clon-de-google/tree/main#2-demo)
+* [3. ¿Qué construirás?](https://github.com/malibb/clon-de-google/tree/main#3-qu%C3%A9-construir%C3%A1s)
+* [4. Objetivos de aprendizaje](https://github.com/malibb/clon-de-google/tree/main#4-objetivos-de-aprendizaje)
+* [5. Requisitos](https://github.com/malibb/clon-de-google/tree/main#5-requisitos)
 
-En el header se encuentra la eticketa Link, el cual funciona para hacer la conexión con el archivo css.
+****
 
-Dentro del body se encuentran tres etiquedas principales que son:
-Header: Que es el encabezado de nuestra página, donde se encuetnra la etiqueta nav, esta ultima es donde agregamos el menú principal de google.
-Main: Dentro de esta etiqueta se encuentra el cuerpo de la página y se divide en tres secciones: logo, input de búsqueda y los botones
-Foother: Que es el pie de página y dentro se encuentran dos listas uno es alineado a la deracha y el segundo es alineado a la izquierda, esto para generar la estructura ideal para el pie de página
+## 1.Intro
+
+HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador💻. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS🤯 (junto con otros elementos que conocerás más adelante). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realizarás la clonación de la interfaz de Google, sí, esa que ves cada que haces una búsqueda en su navegador, ¿aceptas el reto🤓?
+
+## 2. Demo
+Puedes entrar a ver el demo en este vínculo: https://eloquent-platypus-cb196d.netlify.app/
+
+La idea es inspirarte con esta demostración de proyecto. 
+
+**¡Quizá no te quede idéntico o quizá te quede mucho mejor que este demo🤩**, utiliza tu destreza y aprendizaje para que demuestres que tu futuro es ser un(a) programador(a) web.👩🏻💻👦🏻
+
+![imagen]("./../imagenes/googlelogo.png")
 
 
+## 3. ¿Qué construirás?
 
-## Cómo usar
+Este proyecto está enfocado en construir la interfaz estática de Google.
 
-1. Clona o descarga este repositorio en tu computadora.
-2. Abre el archivo `index.html` en tu navegador web.
+Se te pide que sea una sola página que contenga las secciones siguientes:
+  - **a. Header**
+    Sección que involucra la foto del perfil, iconos, logo de Google y las áreas principales del sitio.
+  - **b. Main**
+    Sección del contenedor para los elementos centrales de la página. 
+  - **c. Footer**
+    Sección que incluye hipervínculos al final de la página.
 
-## Personalización
+****
 
-Puedes personalizar este clon de Google modificando los archivos HTML y CSS. Aquí hay algunas áreas que puedes personalizar:
+## 4. Objetivos de aprendizaje
 
-- Cambia el logo de Google en el archivo HTML.
-- Ajusta los estilos, tamaños y colores en el archivo CSS.
-- Personaliza los botones "Buscar con Google" y "Me siento afortunado".
-- Reemplaza las imágenes de perfil y menú con las tuyas propias.
+El objetivo principal de este proyecto es desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación.
+
+Aplicarás:
+
+- Etiquetas estándar HTML5.
+- Estilos con CSS
+
+
+## 5. Requisitos
+
+Usa esta lista para saber los requisitos mínimos del proyecto:
+
+### GENERAL
+
+Realizarse de manera individual
+
+### UI
+- [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
+- [ ] Aplicar tipos de selectores en CSS.
+- [ ] Sección `Header`, `main`, `footer`
+
+
+Happy coding!❤
